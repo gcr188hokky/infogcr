@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gcr188hokky.github.io/infogcr/sitemap.xml
